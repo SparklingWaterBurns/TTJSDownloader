@@ -1,5 +1,5 @@
 # TTJSDownloader
-A TikTok Video Downloader written in pure javascript that runs on the tiktok website. 
+A TikTok Video Downloader written in pure javascript in only one file that runs on the tiktok website. 
 It will redirect you to the video url of the video the user is currently focused on.
 **WORKS BEST ON CHROME AND FIREFOX**
 

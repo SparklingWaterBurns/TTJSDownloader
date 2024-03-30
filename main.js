@@ -1,6 +1,8 @@
 //TT Video Downloader
 //the whole thing (yup, only one file)
 
+var identifyVideoContainer_class = ".tiktok-web-player";
+
 function getVideoURLforDownload() {
     document.querySelectorAll(identifyVideoContainer_class,'[id^="xgwrapper"]').forEach(item => {
         var videoId_split = item.getAttribute("id").split("-");

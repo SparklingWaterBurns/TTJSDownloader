@@ -9,7 +9,6 @@ function getVideoURLforDownload() {
         var videoId_split = item.getAttribute("id").split("-");
         var videoId_ext = videoId_split[videoId_split.length-1];
         var ttrawlink = metavideo.replace("_VIDEO-ID",videoId_ext);
-        alert(redirectingdownloadinitmsg.replace("_ID_",videoId_ext));
         window.location.replace(ttrawlink);
     });
 }

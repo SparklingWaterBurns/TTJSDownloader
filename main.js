@@ -2,6 +2,7 @@
 //the whole thing (yup, only one file)
 
 var identifyVideoContainer_class = ".tiktok-web-player";
+var metavideo = "https://tiktxk.com/meta/_VIDEO-ID/video";
 
 function getVideoURLforDownload() {
     document.querySelectorAll(identifyVideoContainer_class,'[id^="xgwrapper"]').forEach(item => {

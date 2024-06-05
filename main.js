@@ -1,6 +1,3 @@
-//TT Video Downloader
-//the whole thing (yup, only one file)
-
 var identifyVideoContainer_class = ".tiktok-web-player";
 var metavideo_old = "https://tiktxk.com/meta/_VIDEO-ID/video";
 var metavideo = "https://fxtiktok-rewrite.dargy.workers.dev/generate/video/_VIDEO-ID";

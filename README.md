@@ -19,7 +19,7 @@ Next,
 
 Simply copy and paste the code into your browser's dev console or paste the code into the search bar with "javascript:" at the start.
 
-run **getVideoURLForDownload()** in the dev console or by "javascript:" in the search bar
+run **getVideoURLforDownload()** in the dev console or by "javascript:" in the search bar
 
 if you're using the automatic version of the script, you don't need to run the function and it'll do it for you. (make sure you've selected your video first)
 

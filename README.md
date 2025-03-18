@@ -15,15 +15,13 @@ Go to tiktok.com
 
 Go to any video you'd want to download, or you can just stay in the For You page and leave a video running.
 
-Simply copy and paste the code into your browser's dev console.
+Next,
 
-**OR**
+Simply copy and paste the code into your browser's dev console or paste the code into the search bar with "javascript:" at the start.
 
-Paste the code into the search bar with "javascript:" at the start.
+run **getVideoURLForDownload()** in the dev console or by "javascript:" in the search bar
 
-Then run getVideoURLforDownload() on the console or put "javascript:getVideoURLforDownload()" into your search bar.
-
-You will be redirected to the video hosted on tiktok's CDN.
+if you're using the automatic version of the script, you don't need to run the function and it'll do it for you. (make sure you've selected your video first)
 
 ## Requirements
 

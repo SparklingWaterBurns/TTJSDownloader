@@ -10,6 +10,10 @@ TAMPERMONKEY SUPPORT COMING SOON
 **WORKS ONLY ON CHROME AND FIREFOX**
 *Opera might work idk. If someone can test it and submit an issue I would appreciate that*
 
+My current method to get the video on the CDN is [okdargy's fxtiktok service.](https://tfxktok.com/) (their github repository is okdargy/fxTikTok.)
+
+The code is subject to change as things like tiktok updating their API happen.
+
 ## How to use
 Go to tiktok.com
 

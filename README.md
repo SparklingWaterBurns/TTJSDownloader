@@ -1,5 +1,5 @@
 # TTJSDownloader
-
+# STILL WORKING AS OF 2025
 A TikTok Video Downloader written in only vanilla javascript in only one file that runs on the tiktok website.
 
 It will redirect you to the tiktok CDN video url of the video the user is currently on.

@@ -1,5 +1,10 @@
+
+# NO LONGER WORKING AS OF 1/4/2026!
+It seems as though fxTiktok patched using their service to get direct downloads and tiktok patched getting the video.
+Until I find a solution this will be put on hold.
+
+
 # TTJSDownloader
-# STILL WORKING AS OF 2025
 A TikTok Video Downloader written in only vanilla javascript in only one file that runs on the tiktok website.
 
 It will redirect you to the tiktok CDN video url of the video the user is currently on.
